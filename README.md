@@ -1,2 +1,42 @@
 # ai-systems-engineer-roadmaps
-High-level roadmaps, frameworks and resources for evolving from cloud platform engineering to AI systems engineering. Focus on building and managing the infrastructure that enables AI systems to operate effectively, securely, and responsibly.
+
+Curated frameworks, roadmaps, and learning resources for evolving from cloud platform engineering to AI systems engineering 🚀.
+
+Focus on building and managing the infrastructure that enables AI systems to operate effectively, securely, and responsibly 🤖.
+
+Generated with assistance from Claude.
+
+## Contents
+
+- `docs/cloud_to_ai_systems_framework.md` – Strategic framework for transitioning from Cloud Platform Engineer to AI Systems Engineer
+
+### Pending (TBC)
+
+- `docs/ai_infrastructure_skills_roadmap.md` – Technical skills progression for AI infrastructure engineering
+- `docs/ethical_ai_systems_foundation.md` – Resources for developing an ethical foundation for AI systems engineering
+- `docs/meta_level_engineering_approach.md` – Guide to the meta-level perspective of building systems for AI
+- `docs/year1_ai_aware_engineer.md` – Detailed roadmap for becoming an AI-Aware Infrastructure Engineer (2026)
+- `docs/year2_ai_infrastructure_specialist.md` – Progression path to AI Infrastructure Specialist (2027)
+- `docs/year3_ai_platform_engineer.md` – Evolution to AI Platform Engineer (2028)
+- `docs/measuring_progress.md` – Framework for evaluating progress along the AI Systems Engineering path
+- `docs/learning_resources.md` – Curated list of courses, tutorials, and hands-on projects
+
+## Getting Started
+
+Begin with `cloud_to_ai_systems_framework.md` for a high-level overview of the transition journey.
+
+Then explore the year-by-year roadmaps to develop a more detailed understanding of the skills and capabilities needed at each stage.
+
+As this roadmap evolves, additional documents will be added to provide more detailed guidance for each stage of the journey.
+
+## Contributing
+
+Contributions are welcome! If you have insights, resources, or experiences to share about the journey from cloud platform engineering to AI systems engineering, please consider submitting a pull request or opening an issue for discussion.
+
+## License
+
+MIT License.
+
+## Version
+
+0.1.0
