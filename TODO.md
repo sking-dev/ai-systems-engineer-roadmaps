@@ -7,6 +7,7 @@
 - [ ] Annotate `cloud_ai_overlap.md` with personal "covered/partial/gap" status
 - [ ] Draft initial `cloud_ai_gap_analysis.md` from overlap findings  
 - [ ] Create `cybersecurity_ai_overlap.md` using provided template
+- [ ] Identify optimal initial resource set for AI Ethics
 
 ## 🔍 Sites and Resources to Investigate
 
